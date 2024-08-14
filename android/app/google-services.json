@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665078535093",
+    "project_id": "ammaramart-d7fcc",
+    "storage_bucket": "ammaramart-d7fcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665078535093:android:cb09d8bde770ea54d37ffc",
+        "android_client_info": {
+          "package_name": "com.ammaratech.ammaramart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG1WJnSkibdony0L4IArSs0165vCDQZ98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
